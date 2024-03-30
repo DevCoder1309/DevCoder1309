@@ -7,12 +7,12 @@ Hey there! I'm **Ankit Mukherjee**, an engineering student with a burning passio
 ## Skills and Experience
 
 ### 💻 Programming Languages
-- **C**
-- **C++**
-- **Python**
-- **JavaScript**
-- **Bash**
-- **Java**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Logo" width="40">
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="40">
 
 ### ⚙️ Development Stacks
 - **MERN (MongoDB, Express.js, React.js, Node.js) stack**
@@ -23,6 +23,9 @@ Hey there! I'm **Ankit Mukherjee**, an engineering student with a burning passio
 - Specialization in the development of web applications using Express.js and Node.js for the backend, and React.js for the frontend.
 - Proficient in Vanilla JavaScript and CSS for building responsive and interactive user interfaces.
 - Check out my portfolio website: [Ankit Mukherjee Portfolio](https://ankitmukherjee.onrender.com/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="40"> HTML5
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40"> React
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="40"> CSS3
 
 ### 🛡️ Ethical Hacking and Network Security
 - Explored ethical hacking and network security, gaining practical experience through projects and an internship in the domain.
